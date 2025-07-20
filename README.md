@@ -1,5 +1,5 @@
 # Cafe Team Gallery - Interactive Carousel
-
+[Demo](https://samisalmon.github.io/cafe-team-gallery/)
 A beautiful, responsive image carousel showcasing cafe team members with smooth transitions and modern design. Built with vanilla JavaScript, HTML, and Tailwind CSS.
 
 ## ✨ Features
