@@ -133,4 +133,13 @@ carouselTrack.style.transition = 'transform 300ms ease-out';
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
- 
+
+## 🙏 Acknowledgments
+
+- Built with [Tailwind CSS](https://tailwindcss.com/)
+- Icons from [Heroicons](https://heroicons.com/)
+- Font: [DynaPuff](https://fonts.google.com/specimen/DynaPuff)
+
+---
+
+**Made with ❤️ for showcasing amazing cafe teams** 
